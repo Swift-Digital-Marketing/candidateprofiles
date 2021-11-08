@@ -1,9 +1,13 @@
 body{
   background-color: #1ea4d3;
-  width:80%;
+  width:95%;
+  display: flex;
+  flex-wrap:wrap;
 }
 img{
-  width:100%;
+  display:block;
+  width:80%;
+  margin:0 auto;
   height: auto;
 }
 
